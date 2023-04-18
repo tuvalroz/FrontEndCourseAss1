@@ -4,6 +4,8 @@
 3. Your submitted should be *private*, please make barashd@post.bgu.ac.il a collaborator.
 4. Do not use external libraries that provide the pagination component for you. If in doubt, contact the staff.
 5. Deadline: 06/05/2023.
+6. Additional, solve the [theoretical questions]( https://forms.gle/oPgpWcCSrcAN47QMA)
+
 
 ## The task
 The task is to add [pagination](https://www.w3schools.com/css/css3_pagination.asp) to the website:
